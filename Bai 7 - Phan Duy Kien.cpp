@@ -29,7 +29,7 @@ int main() {
 	if ( d == 1 || d == 31 ) { b = "st";}
 	else if ( d == 2 )       { b = "nd";}
 	else if ( d == 3 )       { b = "rd";}
-	else					 { b = "th";}
+	else			 { b = "th";}
 	
 	printf("\n%s %d%s, %d", a, d, b, y);		
 
