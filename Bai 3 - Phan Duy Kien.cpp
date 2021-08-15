@@ -7,6 +7,6 @@ int main() {
     else if (a>=8 && (b>=8 || c>=8)) {printf("Hoc luc gioi");}
     else if (a>=6.5 && (b>=6.5 || c>=6.5)) {printf("Hoc luc kha");}
     else if (a>=5 && (b>=5 || c>=5)) {printf("Hoc luc trung binh");}
-    else {printf("Hoc luc trung binh");}
+    else {printf("Hoc luc yeu");}
     return 0;
 }
